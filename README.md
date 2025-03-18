@@ -12,3 +12,4 @@
  + lcd_font_pg.py: LCD_fontクラス
 
 README UPDEAT
+"C:\Users\sotak\Videos\Captures\pygame demo - window title here 2025-03-18 19-29-45.mp4"
