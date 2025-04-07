@@ -17,7 +17,7 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
-    screen.fill((238, 238, 170))  # back ground color
+    screen.fill((238, 238, 199))  # back ground color
 
     pygame.draw.circle(screen, (176, 176, 222), (320, 240), 120)
     pygame.draw.circle(screen, (222, 176, 222), (120, 120), 20)
