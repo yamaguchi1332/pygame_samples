@@ -1,7 +1,7 @@
 # pygame_samples
 
  + demo_01.py: pygameの超簡単なデモ。 + demo_02.py: 7セグのシミュレーション、各セグメントを2ブロックで構成。Seven_segクラス使用。
- "C:\Users\sotak\Videos\Captures\pygame demo - window title here 2025-03-18 19-29-45.mp4"
+ ![alt text](image.png)
  + demo_LCD_font_01.py: 5x7のLCDフォント制作用。LCD_fontクラス使用。
  + demo_LCD_font.py: 5x7のLCDフォント、完成版。
 
