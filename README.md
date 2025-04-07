@@ -1,8 +1,8 @@
 # pygame_samples
 
  + demo_01.py: pygameの超簡単なデモ。 +
- ![alt text](image-6.png)
- 背景の色を少し明るくしました
+ ![alt text](image-7.png)
+ 背景の色をもっと黄色くしました
  + demo_02.py: 7セグのシミュレーション、各セグメントを2ブロックで構成。Seven_segクラス使用。
 ![alt text](image-1.png)
  + demo_LCD_font_01.py: 5x7のLCDフォント制作用。LCD_fontクラス使用。
