@@ -9,11 +9,6 @@ pygame.display.set_caption("pygame demo - window title here")
 
 running = True
 x1, y1 = 0, 2
-x1, y1 = 0, 3
-x1, y1 = 0, 4
-x1, y1 = 0, 5
-x1, y1 = 0, 6
-x1, y1 = 0, 1
 
 # infinite loop top ----
 while running:
