@@ -35,7 +35,7 @@ while running:
     pygame.draw.rect(screen, color_on, Rect(24 + x1 * 16, 24 + y1 * 16, 12, 12))
     x1 += 1
     if x1 > 4:
-        x1 = 0
+        x1 = 5
 
     pygame.display.flip()  # update
     clock.tick(5)  # FPS, Frame Per Second
