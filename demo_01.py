@@ -8,7 +8,7 @@ screen = pygame.display.set_mode([640, 480])
 pygame.display.set_caption("pygame demo - window title here")
 
 running = True
-x1, y1 = 0, 2
+x1, y1 = 0, 6
 
 # infinite loop top ----
 while running:
