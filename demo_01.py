@@ -38,7 +38,7 @@ while running:
         x1 = 0
 
     pygame.display.flip()  # update
-    clock.tick(5)  # FPS, Frame Per Second
+    clock.tick(50)  # FPS, Frame Per Second
 # infinite loop bottom ----
 
 pygame.quit()
