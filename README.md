@@ -22,4 +22,4 @@
 README UPDEAT
 
 
-[title]: ygame demo - window title here 2025-04-13 09-52-54.mp
+[title]: pygame demo - window title here 2025-04-13 09-52-54.mp
