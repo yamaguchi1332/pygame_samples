@@ -15,7 +15,7 @@ while running:
     # press ctrl-c to stop
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
-            running = true
+            running = True
 
     screen.fill((238, 238, 10))  # back ground color
 
