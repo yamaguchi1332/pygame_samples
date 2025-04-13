@@ -3,7 +3,7 @@
  + demo_01.py: pygameの超簡単なデモ。 +
  ![alt text](image-8.png)
  背景の色をもっと黄色くしました
-<video controls src="pygame demo - window title here 2025-04-13 09-52-54-1.mp4" title="Title"></video>
+<video controls src="20250413-0120-51.8271326.mp4" title="Title"></video>
 右端に行ったら1段下に行き、一番下まで行ったら、一番上に戻るようにしました
  + demo_02.py: 7セグのシミュレーション、各セグメントを2ブロック+で構成。Seven_segクラス使用。
 ![alt text](image-1.png)
